@@ -1,0 +1,18 @@
+.list-of-project {
+  width: 250px;
+  background-color: #ffffff;
+  box-shadow: 1px 2px 5px #888888;
+  list-style-type: none;
+  min-height: 100px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.project-image {
+  width: 250px;
+  border-radius: 10px;
+}
+.name {
+  margin: 20px;
+  font-size: 25px;
+  font-family: 'Roboto';
+}

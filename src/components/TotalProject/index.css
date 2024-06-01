@@ -1,0 +1,45 @@
+.app-container {
+  min-height: 100vh;
+}
+.project-container {
+  min-height: 80vh;
+  margin: 20px;
+}
+.select-input {
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.failure-image {
+  width: 450px;
+}
+.failure-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.retry-button {
+  background-color: #328af2;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.unorder-project-list {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
